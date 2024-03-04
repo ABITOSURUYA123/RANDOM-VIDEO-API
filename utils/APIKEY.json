@@ -1,0 +1,80 @@
+[
+  {
+    "apikey": "S4B1K-BOT",
+    "name": "SABIK",
+    "request": 0,
+    "type": "free"
+  },
+  {
+    "apikey": "SAIMUM-15",
+    "name": "SAIMUM",
+    "request": "infinite",
+    "type": "premium"
+  },
+  {
+    "apikey": "S4B1K-BOT",
+    "name": "",
+    "request": 50,
+    "type": "free"
+  },
+  {
+    "apikey": "SABIK-OWNER",
+    "name": "OWNER",
+    "request": "infinite",
+    "type": "premium"
+  },
+  {
+    "apikey": "BOT_USER",
+    "name": "",
+    "request": 50,
+    "type": "free"
+  },
+  {
+    "apikey": "",
+    "name": "",
+    "request": 50,
+    "type": "free"
+  },
+  {
+    "apikey": "",
+    "name": "",
+    "request": 50,
+    "type": "free"
+  },
+  {
+    "apikey": "",
+    "name": "",
+    "request": 50,
+    "type": "free"
+  },
+  {
+    "apikey": "",
+    "name": "",
+    "request": 50,
+    "type": "free"
+  },
+  {
+    "apikey": "",
+    "name": "",
+    "request": "infinite",
+    "type": "premium"
+  },
+  {
+    "apikey": "",
+    "name": "",
+    "request": "infinite",
+    "type": "premium"
+  },
+  {
+    "apikey": "",
+    "name": "${name}",
+    "request": 50,
+    "type": "free"
+  },
+  {
+    "apikey": "SABIK15",
+    "name": "11111",
+    "request": 50,
+    "type": "free"
+  }
+]
